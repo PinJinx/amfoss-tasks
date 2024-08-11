@@ -1,9 +1,10 @@
 # TerminalTrolly
-Not much to say about this task I had taken some liberty to change some backdrops that i felt doesnot fit rest is same as video
+Not much to say about this task
+I had taken some liberty to change some backdrops that I felt doesnot fit the "vibe" rest is same as video
 
-## things that dont work
-->Please note the navbar doesnot work as it was just just a placeholder in demo video and i had enquired and had been told just leave it be
-->Buy button doesnot work as there i nothing to redirect to
+## Things that dont work
+->Please note that the navbar doesnot work as it was just just a placeholder in demo video and i had enquired and had been told just leave it be
+->Buy button doesnot work as there nothing there to redirect to
 ->Calculation for tax is just 8% of total it is just a sample
 
 ## Instructions
