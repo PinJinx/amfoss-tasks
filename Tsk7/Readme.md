@@ -9,7 +9,7 @@ python3 Subtitles.py --path=arg1 --language=arg2 --filesize=arg3 --hash=arg4 --o
 I have added two 10s videoClip that have been renamed into two different movie names in the Example Folder.When running the app if the path is not provided it should default to this path.Likewise i have also added a Output folder that will be used as a default path to download subtitles.
 
 
-the command takes in 4 argurments namely:
+The command takes in 4 argurments namely:
 -p or --path =>Specify the path to the file or files.
 -l or --language =>Filter subtitles by language.
 -f or --filesize =>Filter subtitles by file size.(in bytes)
