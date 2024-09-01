@@ -51,7 +51,23 @@ async def rlist(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Choose an option:', reply_markup=reply_markup)
 
 
+async def _help(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    help_text = """
+Here are the available commands:
 
+/start - Start interacting with the bot and receive a welcome message.
+
+/book - Ask for book recommendations based on a specific genre.
+
+/preview - Get a preview of a specific book by title.
+
+/list - Provide the title of a book you're interested in to manage it in your reading list.
+
+/reading_list - Manage your reading list. Options include adding, removing, and displaying books in your list.
+
+/help - Display this help message.
+    """
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=help_text)
 
 
 # Callback handler for button clicks
@@ -291,6 +307,7 @@ if __name__ == "__main__":
     start_handler = CommandHandler('start',start)
     book_handler = CommandHandler('book',book)
     preview_handler = CommandHandler('preview',preview)
+    __help = CommandHandler('help',_help)
     plist_handler = CommandHandler('list',plist)
     list_handler = CommandHandler('reading_list',rlist)
     application.add_handler(start_handler)
@@ -300,4 +317,5 @@ if __name__ == "__main__":
     application.add_handler(preview_handler)
     application.add_handler(plist_handler)
     application.add_handler(list_handler)
+    application.add_handler(__help)
     application.run_polling()

@@ -1,13 +1,17 @@
-# TerminalTrolly
-Not much to say about this task,\n
-I had taken some liberty to change some backdrops that I felt doesnot fit the "vibe" rest is same as video
+## Task 5: Terminal Trolley
 
-## Things that dont work
-->Please note that the navbar doesnot work as it was just just a placeholder in demo video and i had enquired and had been told just leave it be.\n
-->Buy button doesnot work as there nothing there to redirect to.\n
-->Calculation for tax is just 8% of total it is just a sample.
+### Instructions
+To run the page, either serve `index.html` on a server or simply open it in your browser.
 
-## Instructions
-->To run the page either run index.html in a server or just open it in your browser\n
-->Kindly Note that both add and remove functions will only add or remove an item if it is listed in the terminal as my roomate first did this to test the website without listing item I just thought to remind this here.\n
-->Since i used same css file for both web page it is a mess just keep in mind if class contain 'H' in name it is for BuyPage.html
+Please note that both the add and remove functions will only add or remove an item if it is listed in the terminal. My roommate initially tested the website without listing an item, so I wanted to remind you of this. Additionally, since I used the same CSS file for both web pages, it may appear messy. Just keep in mind that if a class contains an 'H' in its name, it is intended for `BuyPage.html`.
+
+### Technical Details
+I have divided the task into two separate parts: the main page and the buy page. `styles.css` is the CSS file that controls the styling for both pages. The buy page works with `BuyPage.html` and `BuyPageScript.js`, whereas the main page, which handles most of the tasks, runs with `index.html` and `script.js`. I have tried to replicate the video as closely as possible, but I also made a few adjustments here and there.
+
+### Things That Don’t Work
+- The navbar does not function as it was just a placeholder in the demo video. After inquiring, I was told to leave it as is.
+- The buy button does not work since there’s nothing for it to redirect to.
+- The calculation for tax is just 8% of the total and serves only as a sample.
+
+*Also, I apologize for the messiness of the code. Sorry for any inconvenience.*
+
