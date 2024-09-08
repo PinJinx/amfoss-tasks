@@ -1,5 +1,5 @@
-####TinyDB
-###Overview
+###TinyDB
+##Overview
 TinyDB is a lightweight, document-oriented database written in Python. It is designed for scenarios where a full-featured database system is overkill, and where simplicity and ease of use are paramount.
 ###Functionality
 ##Database Commands:
