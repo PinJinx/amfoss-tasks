@@ -1,3 +1,5 @@
+#Directory Structure
+```
 tinydb/
 ├── tinydb/
 │   ├── __init__.py
@@ -19,4 +21,4 @@ tinydb/
 ├── LICENSE
 ├── README.md
 └── setup.py
-
+```
