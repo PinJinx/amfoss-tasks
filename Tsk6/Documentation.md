@@ -1,4 +1,4 @@
-### TinyDB
+# TinyDB
 
 ## Overview
 
@@ -8,17 +8,17 @@ TinyDB is a lightweight, document-oriented database written in Python. It is des
 
 ### Database Commands:
 
-#### 1. Create a Database
+#### Create Database
 
-Create or open a TinyDB database:
+To Create or open a TinyDB database:
 
 ```python
 db = TinyDB('db.json')
 ```
 
-#### 2. Truncate the Database
+#### Truncate the Database
 
-Remove all documents without deleting the file:
+To Remove all documents without deleting the file:
 
 ```python
 db.truncate()
