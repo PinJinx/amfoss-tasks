@@ -1,6 +1,4 @@
 #Task7: A Pirates Dilemma
-
-
 ##Overview
 For this task there is the Subtitles.py script you can run the program by typing,
 **arg stands for argument replace it with what you need**
@@ -8,7 +6,7 @@ python3 Subtitles.py --path=arg1 --language=arg2 --filesize=arg3 --hash=arg4 --o
 **arg 1,2,4,5 are string arg 3 is integer and arg5 is a boolean**
 I have added two 10s videoClip that have been renamed into two different movie names in the Example Folder.When running the app if the path is not provided it should default to this path.Likewise i have also added a Output folder that will be used as a default path to download subtitles.
 
-
+#Arguments
 The command takes in 4 argurments namely:
 -p or --path =>Specify the path to the file or files.
 -l or --language =>Filter subtitles by language.
