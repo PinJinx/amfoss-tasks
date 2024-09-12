@@ -23,8 +23,3 @@ The command takes in 4 arguments:
 - `-h` or `--hash`: Filter subtitles by hash.
 - `-o` or `--output`: Specify the output directory for subtitles.
 - `-b` or `--batch`: Process subtitles in batch mode. This enables you to read and download subtitles for multiple files as batches.
-
-### Explanation of Fixes:
-1. **Headings**: The `# Task7` needed proper space after the `#` for the markdown to recognize it as a title.
-2. **Code block formatting**: I added backticks for code and shell commands to render them correctly.
-3. **Bullet points**: I adjusted the list for the arguments to be more readable and consistent.
