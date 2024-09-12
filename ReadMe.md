@@ -1,0 +1,14 @@
+#Introduction
+Hi, I am Rohith K Pradeep from Computer Science department.I am currently in my 1st semester in this collage.To tell a bit about myself One of my hobbies that I started when the corona pandemic hit was that i learned how to design games. I taught myself and I got myself more into coding. As years went I taught myself a few languages and frameworks like HTML,CSS,C#,python.Then as the corona ended and my 11th and 12th began I went for a lot of hackathon and other competitions(by a lot I mean 6 to 7 contest not much).Going through these programs I started to learn other parts of computing like in Arduino not a whole lot but at an intermediate level.All these had given me a clear idea to move forward as I completed my 12th and that's also the reason I am here and I chose computer department.
+
+##Why should we choose you?
+If you ask me why should the club choose me, I would most likely say that over the last two years (my 11th and 12th) I have learned a lot about myself this was only because of all the hackathon's and the contest I attended. One of the main things I learned about myself is how dedicated I am if i am committed to complete a task or compete in a contest for the club I will absolutely put my heart and soul into it.Whether it is to stay up late or to study new things that I don't even have a basic idea on.I will absolutely do my best in everything that comes in my way. Second is I like to learn like when in my 6th or 7th and my friends made fun of me for not knowing what a game engine is. I got curious and by the next two years I mostly learned 2 completely different engines and did 5 to 6 games.If I can make up my mind I will or can learn anything that you through at me.
+
+##How do you intend to contribute back to the club?
+By joining the club I mainly want to learn new things and try out new stuff with this goal always set on my mind.I will always be ready to learn and to teach my pals in the club.I would gladly participate in club events and competitions.If I get a chance I will gladly represent my club and participate in contest with my full Josh.
+
+##What are your fields of interest, and how do you plan on working on them?
+I like game designing from that I don't want to fully focus on it. Mainly my plan is to learn a mixture of things.It can be from Web development to the the new hype in the market AI.
+from simple things like python to complex programming language I wish to have a taste in all of them. Saying all of these I do have a picture in mind to level up myself. Firstly I mainly want to focus on the main big languages like c++,c,java etc other than that I also mainly want to learn new applications like flutter. Whether it is for a contest or not I wish to complete all the languages and essentials that are needed to land in a good job by the end of four years.
+
+**PS:I tried to do it like a job interview**
