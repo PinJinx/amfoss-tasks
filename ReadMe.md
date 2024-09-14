@@ -21,7 +21,7 @@ While game design is an interest, I don't want to limit myself solely to that. M
 Firstly, I want to focus on mastering the major programming languages like C++, C, Java, etc. Additionally, I'm keen on learning new applications like Flutter. Whether it's for a contest or not, I aim to learn all the essential languages and skills needed to land a good job by the end of my four years.
 
 **P.S.:** I tried to format this like a job interview.
-```
+
 ╔═════════════╤═══════════════════════╤═══════════╤════════════════════╗
 ║ Task Number │       Task Name       │ Status    │ HyperLink          ║
 ╠═════════════╪═══════════════════════╪═══════════╪════════════════════╣
@@ -47,4 +47,4 @@ Firstly, I want to focus on mastering the major programming languages like C++, 
 ╟─────────────┼───────────────────────┼───────────┼────────────────────╢
 ║ 10          │ Operation Pixel Merge │ Completed │ [Task 10](./Tsk10) ║
 ╚═════════════╧═══════════════════════╧═══════════╧════════════════════╝
-```
+
