@@ -22,29 +22,18 @@ Firstly, I want to focus on mastering the major programming languages like C++, 
 
 **P.S.:** I tried to format this like a job interview.
 
-╔═════════════╤═══════════════════════╤═══════════╤════════════════════╗
-║ Task Number │       Task Name       │ Status    │ HyperLink          ║
-╠═════════════╪═══════════════════════╪═══════════╪════════════════════╣
-║ 0           │ Dual-Booting Linux    │ Completed │ [Task 0](./Tsk0)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 1           │ Type Maestro          │ Completed │ [Task 1](./Tsk1)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 2           │ Terminal Chaos        │ Completed │ [Task 2](./Tsk2)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 3           │ Hello World           │ Completed │ [Task 3](./Tsk3)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 4           │ Gopal and his PagePal │ Completed │ [Task 4](./Tsk4)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 5           │ Terminal Trolley      │ Completed │ [Task 5](./Tsk5)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 6           │ TinyDB                │ Completed │ [Task 6](./Tsk6)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 7           │ A Pirate's Dilemma    │ Completed │ [Task 7](./Tsk7)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 8           │ Blog Report           │ Completed │ [Task 8](./Tsk8)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 9           │ Hero Dex              │ Completed │ [Task 9](./Tsk9)   ║
-╟─────────────┼───────────────────────┼───────────┼────────────────────╢
-║ 10          │ Operation Pixel Merge │ Completed │ [Task 10](./Tsk10) ║
-╚═════════════╧═══════════════════════╧═══════════╧════════════════════╝
+## Task List
 
+| Task Number | Task Name               | Status    | HyperLink            |
+|-------------|-------------------------|-----------|----------------------|
+| 0           | Dual-Booting Linux      | Completed | [Task 0](./Tsk0)     |
+| 1           | Type Maestro            | Completed | [Task 1](./Tsk1)     |
+| 2           | Terminal Chaos          | Completed | [Task 2](./Tsk2)     |
+| 3           | Hello World             | Completed | [Task 3](./Tsk3)     |
+| 4           | Gopal and his PagePal   | Completed | [Task 4](./Tsk4)     |
+| 5           | Terminal Trolley        | Completed | [Task 5](./Tsk5)     |
+| 6           | TinyDB                  | Completed | [Task 6](./Tsk6)     |
+| 7           | A Pirate's Dilemma      | Completed | [Task 7](./Tsk7)     |
+| 8           | Blog Report             | Completed | [Task 8](./Tsk8)     |
+| 9           | Hero Dex                | Completed | [Task 9](./Tsk9)     |
+| 10          | Operation Pixel Merge   | Completed | [Task 10](./Tsk10)   |
